@@ -1,0 +1,30 @@
+
+       .årbg{
+            background-color: #e74c3c;
+            color: white;
+            padding: 12px 15px;
+            text-align: center;
+        }
+        .total{
+            background-color: #3498db;
+            color: white;
+            padding: 12px 15px;
+        }
+        
+        td, th{
+           padding: 12px 15px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+
+          }
+
+        tr{
+            text-align: left;
+            
+        }
+        tr:nth-child(even){
+            background-color: #f2f2f2;
+        }
